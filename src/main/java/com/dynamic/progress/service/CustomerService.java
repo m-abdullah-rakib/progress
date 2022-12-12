@@ -1,6 +1,6 @@
 package com.dynamic.progress.service;
 
-import com.dynamic.progress.entity.Customer;
+import com.dynamic.progress.model.Customer;
 import com.dynamic.progress.repository.CustomerRepository;
 import org.springframework.stereotype.Service;
 

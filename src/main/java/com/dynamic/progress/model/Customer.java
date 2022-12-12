@@ -1,4 +1,4 @@
-package com.dynamic.progress.entity;
+package com.dynamic.progress.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

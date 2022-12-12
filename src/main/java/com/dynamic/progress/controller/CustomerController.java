@@ -1,6 +1,6 @@
 package com.dynamic.progress.controller;
 
-import com.dynamic.progress.entity.Customer;
+import com.dynamic.progress.model.Customer;
 import com.dynamic.progress.repository.CustomerRepository;
 import com.dynamic.progress.service.CustomerService;
 import org.springframework.web.bind.annotation.*;

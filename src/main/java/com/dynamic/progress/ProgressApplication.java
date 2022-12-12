@@ -1,6 +1,6 @@
 package com.dynamic.progress;
 
-import com.dynamic.progress.entity.Customer;
+import com.dynamic.progress.model.Customer;
 import com.dynamic.progress.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
