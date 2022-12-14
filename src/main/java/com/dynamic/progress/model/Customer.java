@@ -8,7 +8,7 @@ import jakarta.persistence.Id;
 import java.util.Objects;
 
 
-@Entity
+@Entity(name = "Customer")
 public class Customer {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
